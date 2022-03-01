@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/trevnorris/orbitals/issues"
   },
-  "homepage": "https://github.com/trevnorris/orbitals#readme"
+  "homepage": "https://github.com/trevnorris/orbitals#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
 }
